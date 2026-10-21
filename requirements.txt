@@ -1,0 +1,6 @@
+   streamlit
+   plotly
+   pandas
+   requests
+   pypdf
+   python-docx
