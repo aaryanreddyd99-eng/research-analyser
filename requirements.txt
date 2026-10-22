@@ -1,6 +1,7 @@
    streamlit
-   plotly
-   pandas
-   requests
-   pypdf
-   python-docx
+pandas
+plotly
+requests
+pypdf
+python-docx
+reportlab
